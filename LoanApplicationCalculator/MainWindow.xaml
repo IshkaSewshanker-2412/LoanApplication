@@ -1,0 +1,117 @@
+﻿<Window x:Class="LoanApplicationCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoanApplicationCalculator"
+        mc:Ignorable="d"
+        Title="Loan Application Calculator" Height="450" Width="800" Background="Bisque" FontWeight="DemiBold">
+
+    <Grid>
+
+        <!--Label for greeting the user-->
+        <Label Content="Welcome to our loan calculation app!" HorizontalAlignment="Center" 
+               Margin="10,10,0,0" VerticalAlignment="Top" Width="220" FontWeight="Bold" 
+             Foreground="DarkBlue"   />
+
+        <!--Label for asking the user to enter the following values-->
+        <Label Content="Please enter the values for the following, given below: " HorizontalAlignment="Left" 
+        Margin="10,36,0,0" VerticalAlignment="Top" FontWeight="Bold"
+               Foreground="DarkBlue"/>
+
+        <!--Label for getting user gross monthly income-->
+        <Label Content="Enter amount for gross monthly income:  " HorizontalAlignment="Left"
+               Margin="14,73,0,0" VerticalAlignment="Top"/>
+        <!--Textbox for getting user gross income-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="313,73,0,0" 
+         TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="txtBox_gross" 
+                  />
+
+        <!--Label for getting user monthly income tax deducted-->
+        <Label Content="Enter amount for monthly income tax deducted:  " HorizontalAlignment="Left"
+            Margin="14,104,0,0" VerticalAlignment="Top"/>
+        <!--Textbox for getting user monthly income tax deducted-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="313,109,0,0" 
+         TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" x:Name="txtBox_income" />
+
+
+        <!--Label for getting user groceries amount-->
+        <Label Content="Enter amount for groceries:  " HorizontalAlignment="Left"
+            Margin="14,136,0,0" VerticalAlignment="Top"/>
+        <!--Textbox for getting user groceries amount-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="313,137,0,0" 
+            TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" x:Name="txtBox_Groc" />
+
+        <!--Label for getting user water and lights-->
+        <Label Content="Enter amount for water and lights:  " HorizontalAlignment="Left"
+            Margin="14,164,0,0" VerticalAlignment="Top"/>
+        <!--Textbox for getting user water and lights amount-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="313,167,0,0" 
+            TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" x:Name="txtBox_WNL" />
+
+        <!--Label for getting user cell phone costs-->
+        <Label Content="Enter amount for cellphone and telephone cost:  " HorizontalAlignment="Left"
+            Margin="14,195,0,0" VerticalAlignment="Top"/>
+        <!--Textbox for getting user cellphone costs-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="313,199,0,0" 
+            TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" x:Name="txtBox_Cell" />
+
+        <!--Label for getting user travel costs-->
+        <Label Content="Enter amount for travel cost:  " HorizontalAlignment="Left"
+            Margin="14,229,0,0" VerticalAlignment="Top"/>
+        <!--Textbox for getting user travel costs-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="313,232,0,0" 
+         TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" 
+                 x:Name="txtBox_travel" />
+        
+        <!--Label for asking user to choose-->
+        <Label Content="Please select one of the following options below: " 
+         HorizontalAlignment="Left" Margin="21,318,0,0" VerticalAlignment="Top" 
+         Foreground="DarkBlue" FontWeight="Bold"/>
+
+       
+        <!--Button to display calculation-->
+        <Button Content="Display Amounts Entered" HorizontalAlignment="Left" 
+         Margin="21,272,0,0" VerticalAlignment="Top" Width="145" Foreground="red"
+         x:Name="btn_SaveAmounts" Click="btn_SaveAmounts_Click"/>
+        
+        <!--Adding image-->
+        <Image HorizontalAlignment="Left" Height="75" Margin="664,36,0,0" 
+         VerticalAlignment="Top" Width="100" Source="images.png"/>
+
+        <!--Button for choosing Homeloan-->
+        <Button Content="Homeloan" HorizontalAlignment="Left" 
+         Margin="27,364,0,0" VerticalAlignment="Top" Width="75" x:Name="btn_Home" 
+                Foreground="Purple" Click="btn_Home_Click"/>
+
+        <!--Button for choosing Vehicle-->
+        <Button Content="Vehicle" HorizontalAlignment="Left" 
+         Margin="168,364,0,0" VerticalAlignment="Top" Width="75" x:Name="btn_Vehicle"
+                Foreground="DarkBlue" Click="btn_Vehicle_Click"/>
+
+        <!--Button for choosing Save-->
+        <Button Content="Save" HorizontalAlignment="Left"
+         Margin="313,364,0,0" VerticalAlignment="Top" Width="75" x:Name="btn_Save" 
+         Foreground="Green" Click="btn_Save_Click"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>

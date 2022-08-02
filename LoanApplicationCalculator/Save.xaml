@@ -1,0 +1,68 @@
+﻿<Window x:Class="LoanApplicationCalculator.Save"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoanApplicationCalculator"
+        mc:Ignorable="d"
+        Title="Save" Height="450" Width="800" Background="BurlyWood" FontWeight="DemiBold">
+    <Grid>
+
+        <!--Label for greeting the user-->
+        <Label Content="Welcome to our loan calculation app!" HorizontalAlignment="Center" 
+               Margin="10,10,0,0" VerticalAlignment="Top" Width="220" FontWeight="Bold" 
+             Foreground="DarkBlue"   />
+
+        <!--Label for asking the user to enter the following values-->
+        <Label Content="You have chosen the Save option! " HorizontalAlignment="Left" 
+        Margin="105,65,0,0" VerticalAlignment="Top" FontWeight="Bold"
+               Foreground="Red" FontSize="35" />
+        <Image HorizontalAlignment="Left" Height="100" Margin="642,127,0,0" 
+               VerticalAlignment="Top" Width="100" Source="save.jpg" RenderTransformOrigin="0.498,0.71" />
+        <!--Adding save button-->
+        <Button Content="Click to calculate" HorizontalAlignment="Left" Margin="291,312,0,0" 
+                VerticalAlignment="Top" Height="30" Width="202" Foreground="red" x:Name="btn_Save" Click="btn_Save_Click"/>
+
+        <!--Adding go back button-->
+        <Button Content="Go Back" HorizontalAlignment="Left" Margin="291,361,0,0" 
+               Foreground="DarkMagenta" VerticalAlignment="Top" Height="30" 
+                Width="202" Click="Button_Click"/>
+
+        <!--Adding label to ask user reason for saving-->
+        <Label Content="Please enter reason for choosing save option: " HorizontalAlignment="Left"
+               Margin="50,127,0,0" VerticalAlignment="Top"/>
+        <!--Text box for taking user input-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="391,131,0,0"
+         TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150" x:Name="txtBox_Reason"/>
+
+        <!--Adding label to ask user to enter amount to save-->
+        <Label Content="Enter the amount you wish to save: " HorizontalAlignment="Left" 
+               Margin="50,158,0,0" VerticalAlignment="Top"/>
+        <!--Textbox asking user to enter amount they wish to save-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="391,170,0,0" TextWrapping="Wrap" 
+         Text="" VerticalAlignment="Top" Width="150" x:Name="txtBox_saveAmount"/>
+
+        <!--Adding label to ask user for interest amount-->
+        <Label Content="Enter interest amount: " HorizontalAlignment="Left" Margin="50,209,0,0" 
+         VerticalAlignment="Top"/>
+        <!--Adding textbox asking the user to enter interest-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="391,213,0,0" 
+         TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150" x:Name="txtBox_interestRate"/>
+        
+        <!--Adding label to ask user for the number of years they wish to save-->
+        <Label Content="Enter the time period you wish to save for: " 
+         HorizontalAlignment="Left" Margin="50,256,0,0" VerticalAlignment="Top"/>
+        <!--Adding textbox for user to enter amount of years they wish to save for-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="391,256,0,0" TextWrapping="Wrap" 
+        Text="" VerticalAlignment="Top" Width="150" x:Name="txtBox_TimePeriod"/>
+
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>

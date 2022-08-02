@@ -1,0 +1,84 @@
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.exe.config
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.exe
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.pdb
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.AssemblyReference.cache
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\App.g.cs
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator_MarkupCompile.cache
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator_MarkupCompile.lref
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\MainWindow.baml
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.g.resources
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.Properties.Resources.resources
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.GenerateResource.cache
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.exe
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.pdb
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\HomeLoan.g.cs
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\HomeLoan.baml
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Vehicle.g.cs
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Vehicle.baml
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Save.g.cs
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Save.baml
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.exe.config
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.exe
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.pdb
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.AssemblyReference.cache
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\HomeLoan.g.cs
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Save.g.cs
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Vehicle.g.cs
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\App.g.cs
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator_MarkupCompile.cache
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator_MarkupCompile.lref
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\HomeLoan.baml
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\MainWindow.baml
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Save.baml
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Vehicle.baml
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.g.resources
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.Properties.Resources.resources
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.GenerateResource.cache
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.exe
+C:\Users\ishka\Desktop\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.pdb
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.exe.config
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.exe
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.pdb
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.AssemblyReference.cache
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\HomeLoan.g.cs
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\MainWindow.g.cs
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Save.g.cs
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Vehicle.g.cs
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\App.g.cs
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator_MarkupCompile.cache
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator_MarkupCompile.lref
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\HomeLoan.baml
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\MainWindow.baml
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Save.baml
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Vehicle.baml
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.g.resources
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.Properties.Resources.resources
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.GenerateResource.cache
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.exe
+D:\PROGRAMMING 2A\POE FOLDER TO SUBMIT\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.pdb
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.exe.config
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.exe
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\bin\Debug\LoanApplicationCalculator.pdb
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.AssemblyReference.cache
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\HomeLoan.g.cs
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Save.g.cs
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Vehicle.g.cs
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\App.g.cs
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator_MarkupCompile.cache
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator_MarkupCompile.lref
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\HomeLoan.baml
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\MainWindow.baml
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Save.baml
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\Vehicle.baml
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.g.resources
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.Properties.Resources.resources
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.GenerateResource.cache
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.exe
+C:\Users\ishka\Desktop\DesktopItemsCombined\FINALPOE-IshkaSewshanker-20109454-PROG6211-LoanApplicationCalculator\LoanApplicationCalculator\obj\Debug\LoanApplicationCalculator.pdb

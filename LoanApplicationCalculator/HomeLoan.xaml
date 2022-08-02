@@ -1,0 +1,67 @@
+﻿<Window x:Class="LoanApplicationCalculator.HomeLoan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoanApplicationCalculator"
+        mc:Ignorable="d"
+        Title="HomeLoan" Height="450" Width="800" Background="LightCoral" FontWeight="DemiBold">
+    <Grid>
+
+        <!--Label for greeting the user-->
+        <Label Content="Welcome to our loan calculation app!" HorizontalAlignment="Center" 
+               Margin="10,10,0,0" VerticalAlignment="Top" Width="220" FontWeight="Bold" 
+             Foreground="DarkBlue"   />
+
+        <!--Label for asking the user to enter the following values-->
+        <Label Content="You have chosen the home loan option, please enter the values for the following, given below: " HorizontalAlignment="Left" 
+        Margin="10,36,0,0" VerticalAlignment="Top" FontWeight="Bold"
+               Foreground="DarkBlue"/>
+
+        <!--Label for getting user purchase property-->
+        <Label Content="Enter purchase price of property:  " HorizontalAlignment="Left"
+               Margin="14,73,0,0" VerticalAlignment="Top"/>
+        <!--Textbox for getting user purchase property-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="313,73,0,0" 
+         TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" 
+                 Name="txtBox_propPrice"  />
+
+        <!--Label for getting user total deposit-->
+        <Label Content="Enter amount for total deposit:  " HorizontalAlignment="Left"
+            Margin="14,104,0,0" VerticalAlignment="Top"/>
+        <!--Textbox for getting user total deposit-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="313,109,0,0" 
+         TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" x:Name="txtBox_TotDep"/>
+
+
+        <!--Label for getting user interest rate-->
+        <Label Content="Enter amount for interest rate:  " HorizontalAlignment="Left"
+            Margin="14,141,0,0" VerticalAlignment="Top"/>
+        <!--Textbox for getting user interest rate-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="313,142,0,0" 
+         TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" x:Name="txtBox_IntRate"/>
+
+        <!--Label for getting user number of months-->
+        <Label Content="Enter months to repay between 240-360 :  " HorizontalAlignment="Left"
+         Margin="14,166,0,0" VerticalAlignment="Top"/>
+        <!--Textbox for getting user number of months-->
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="313,170,0,0" 
+        TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" x:Name="txtBox_numMonths"/>
+        
+        <!--Adding button to save amounts entered-->
+        <Button Content="Calculate" HorizontalAlignment="Left" Margin="291,251,0,0" Height="30" 
+         VerticalAlignment="Top" Width="202" Foreground="Red" RenderTransformOrigin="0.475,0.568" Click="Button_Click"/>
+        
+        <!--Adding image for app-->
+        <Image HorizontalAlignment="Left" Height="100" Margin="648,67,0,0" 
+               VerticalAlignment="Top" Width="130" Source="home5.jpg"   />
+        
+        <!--Adding back button-->
+        <Button Content="Go Back" HorizontalAlignment="Left" Margin="291,312,0,0" 
+         VerticalAlignment="Top" Height="30"  Width="202" Foreground="DarkMagenta"
+                x:Name="btn_goBack" RenderTransformOrigin="0.709,0.856" Click="Button_Click_1"/>
+
+
+
+    </Grid>
+</Window>
